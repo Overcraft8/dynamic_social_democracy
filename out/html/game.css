@@ -699,17 +699,17 @@ th {
   fill: #700000;
 }
 
-.seat.spd {
+.seat.ccf {
   fill: #E3000F;
   stroke: var(--border-color);
   stroke-width: 1.5px;
 }
 
-.seat.ddp {
+.seat.lpc {
   fill: #D3C24D;
 }
 
-.seat.z {
+.seat.rpc {
   fill: #000;
 }
 
@@ -717,7 +717,7 @@ th {
   fill: #A2D8E0;
 }
 
-.seat.dvp {
+.seat.cpc {
   fill: #D5AC27;
 }
 
@@ -725,7 +725,7 @@ th {
   fill: #909090;
 }
 
-.seat.dnvp {
+.seat.scp {
   fill: #3E88B3;
 }
 
